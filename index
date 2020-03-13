@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>AFRODITTY ACADEMIA</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto+Slab:400,700|Pacifico' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+  
+<body>
+    
+    <nav>
+        <a href="#">Afoditty Academia</a>
+        <ul>
+            <li><a href="#sobre">SOBRE</a></li>
+            <li><a href="#servicos">SERVIÇOS</a></li>
+            <li><a href="#acomodacao">ACOMODAÇÕES</a></li>
+            <li><a href="#contato">CONTATO</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1>Afoditty Academia</h1>
+        <p>Qualidade no Atendimento e Professores Especializados.</p>
+        <a href="#sobre" class="botao">VER MAIS</a>
+    </header>
+
+    
+    <section id="sobre">
+        <h2>SOBRE</h2>
+        <p>Afoditty Academia Qualidade no Atendimento e Professores Especializados.</p>
+        <a href="#contato" class="botao">ENTRE EM CONTATO</a>
+    </section>
+
+    <section id="servicos">
+        <h2>SERVIÇOS</h2>
+        <div>
+            <img src="img/musculacao2.jpg" alt="alteres">
+            <h3>Musculação</h3>
+            <p>Equipamentos modernos, sempre revisados e os profissionais mais atenciosos da região.</p>
+        </div>
+        <div>
+            <img src="img/natacao2.png" alt="nadador">
+            <h3>Natação e Hidroginástica</h3>
+            <p>Aulas de natação para crianças e hidroginática para os adultos.</p>
+        </div>
+        <div>
+            <img src="img/bike.png" alt="bicicleta">
+            <h3>Bike Indoor</h3>
+            <p>Melhore seu condicionamento físico com nossas aulas aeróbicas.</p>
+        </div>
+        <div>
+            <img src="img/coracao.png" alt="Coração">
+            <h3>Feito com Amor</h3>
+            <p>Aqui você é sempre atendido com amor.</p>
+        </div>
+    </section>
+
+    <section id="acomodacao">
+        <h2>ACOMODAÇÕES</h2>
+        <img src="img/acomodacao6.jpg" alt="cogumelos">
+        <img src="img/acomodacao1.png" alt="Sol no horizonte">
+        <img src="img/acomodacao2.png" alt="Pessoas à beira de vale">
+        <img src="img/acomodacao3.png" alt="Floresta nevada">
+        <img src="img/acomodacao4.png" alt="Praia deserta">
+        <img src="img/acomodacao5.png" alt="Alce à beira de rio">
+    </section>
+
+    <section id="contato">
+        <h2>CONTATO</h2>
+        <p>Entre em contato conosco.</p>
+        <div>
+            <img src="img/fone.png" alt="fone">
+            <p><a href="tel:xx55555555">(81) 3487-8818</a></p>
+        </div>
+
+        <div>
+            <img src="img/contato.png" alt="email">
+            <p><a href="mailto:email@contato.com">afrodittyacademia@hotmail.com</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Desenvolvido por Luiz Mello</p>
+    </footer>
+    
+</body>
+</html>
